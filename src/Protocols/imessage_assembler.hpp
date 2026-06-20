@@ -2,6 +2,7 @@
 #define IMESSAGE_ASSEMBLER_H
 
 #include <functional>
+#include <string>
 
 class IMessageAssembler
 {

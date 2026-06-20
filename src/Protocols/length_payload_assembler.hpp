@@ -1,7 +1,7 @@
 #ifndef LENGTH_PAYLOAD_ASSEMBLER_H
 #define LENGTH_PAYLOAD_ASSEMBLER_H
 
-#include "imessage_assembler.h"
+#include "imessage_assembler.hpp"
 
 /*
  * Reassembles fragmented incoming data using a length-prefixed protocol.
